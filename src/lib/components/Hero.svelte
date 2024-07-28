@@ -8,7 +8,7 @@
   <div class="container">
     <h1 in:fly="{{ y: 50, duration: 1000 }}">Master Your Studies with StudyCraft</h1>
     <p in:fly="{{ y: 50, duration: 1000, delay: 500 }}">Organize, learn, and excel with our powerful study companion</p>
-    <a href="#" class="cta-button" in:fly="{{ y: 50, duration: 1000, delay: 1000 }}">Get Started</a>
+    <a href="https://github.com/rodmarkun/StudyCraft" target="_blank" class="cta-button" in:fly="{{ y: 50, duration: 1000, delay: 1000 }}">Fully open-source!</a>
     <div class="screenshot-wrapper" in:fly="{{ y: 50, duration: 1000, delay: 1500 }}">
       <img src={screenshot} alt="StudyCraft Screenshot" class="screenshot" />
     </div>

@@ -13,6 +13,7 @@
     <meta name="description" content="Organize, learn, and excel with StudyCraft, your powerful study companion">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
     <script src="https://kit.fontawesome.com/your-font-awesome-kit.js" crossorigin="anonymous"></script>
+    <link rel="icon" type="image/x-icon" href="/StudyCraftLogo2Transparente.ico">
   </svelte:head>
   
   <main>

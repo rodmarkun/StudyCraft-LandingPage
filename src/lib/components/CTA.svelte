@@ -10,7 +10,15 @@
   <div class="container">
     {#if visible}
       <h2 in:fly="{{ y: 50, duration: 1000 }}">Ready to Elevate Your Study Game?</h2>
-      <a href="#" class="cta-button" in:fly="{{ y: 50, duration: 1000, delay: 500 }}">Download StudyCraft</a>
+      <a 
+        href="https://github.com/rodmarkun/StudyCraft/releases/download/studycraft-v1.0.0/StudyCraft-win32-x64.zip" 
+        class="cta-button" 
+        in:fly="{{ y: 50, duration: 1000, delay: 500 }}"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Download StudyCraft
+      </a>
     {/if}
   </div>
 </section>
