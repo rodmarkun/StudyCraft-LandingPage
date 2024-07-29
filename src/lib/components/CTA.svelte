@@ -17,7 +17,7 @@
         target="_blank"
         rel="noopener noreferrer"
       >
-        Download StudyCraft
+        Download StudyCraft for Windows
       </a>
     {/if}
   </div>
